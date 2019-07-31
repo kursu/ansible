@@ -1,0 +1,9 @@
+ansible_host=35.224.43.76 ansible_user=oxlamons
+[servers]
+aws      ansible_host=13.59.125.250  owner=anton1
+aws2     ansible_host=18.191.80.103   owner=anton2
+red      ansible_host=18.191.66.221   owner=anto3
+[windows]
+windows2012 ansible_host=18.224.44.251  owmer=anton3
+
+
